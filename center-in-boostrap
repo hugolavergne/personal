@@ -1,0 +1,9 @@
+<div class="container d-flex flex-row justify-content-center my-flex-container">
+        <!-- grand logo sur la page d'accueil -->
+        <div class="col-md-7 col-xs-6 ">
+          <img src="images/logo-tqt.png" class="img-responsive" alt="fama">           
+        </div>
+        <div class="col-md-5 col-xs-6">
+          <h1 class="text-bold">En quelques mots...</h1>
+          </div>
+          </div>
